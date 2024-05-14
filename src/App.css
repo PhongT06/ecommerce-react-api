@@ -1,0 +1,62 @@
+
+/* .customer-card {
+  border: 1px solid grey;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  background: grey;
+  color: white;
+  width: 75vw;
+  margin: 5px auto;
+}
+
+.app-container {
+  /* display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center; */
+  /* margin: 0px;
+  padding: 0px;
+}
+
+.app-container > h2 {
+  color: rgb(47, 46, 46);
+  text-shadow: 2px 2px 2px pink;
+  margin-top: 50px;
+} */ */
+
+
+/* NavBar Styles */
+
+/* .nav-bar {
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+  align-items: center; 
+  background-color: rgb(37, 35, 35);
+  color: white; 
+}
+
+.nav-bar > a {
+  text-decoration: none; 
+  color: white; 
+}
+
+.nav-bar > a:hover {
+  color: rgb(233, 14, 167);
+} */
+
+.home-page{
+  background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.7)), url('https://blog.siriusxm.ca/wp-content/uploads/2021/11/2021-10-04-Yacht-Rock-311.jpg');
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white; 
+  text-align: center; 
+  
+}
+
